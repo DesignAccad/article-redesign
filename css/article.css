@@ -1,0 +1,141 @@
+body{
+  height: 2000px;
+}
+
+h1{
+  font-family:"Helvetica";
+  font-weight: bold;
+  font-size: 2em;
+  margin-left: 1%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: left;
+  color: black;
+        }
+
+p{
+  font-family:"Helvetica";
+  font-weight: lighter;
+  font-size: 1em;
+  margin-left: 1%;
+  margin-top: 4%;
+  text-align: left;
+  color: black;
+}
+
+ol{
+  font-family:"Helvetica";
+  font-weight:bold;
+  font-size: 1em;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  line-height: 15px;
+  box-sizing: border-box;
+  text-align: left;
+  color: black;
+}
+
+.opener{
+  width: 22%;
+  height: 100%;
+  background-color: #ED3025;
+  position: fixed;
+  z-index: 1;
+}
+
+.title{
+  font-family:"Helvetica";
+  font-weight: bolder;
+  font-size: 4.5em;
+  margin-right: 5%;
+  margin-top: -10%;
+  text-align: right;
+  color: #ECECEC;
+}
+
+.subtitle{
+  font-family:"Helvetica";
+  font-weight:300;
+  font-size: 1.2em;
+  margin-right: 5%;
+  margin-top: 10%;
+  text-align: right;
+  color: #ECECEC;
+}
+
+.cross{
+  font-size: 10em;
+  margin-left: 5%;
+  margin-top: -5%;
+  text-align: left;
+  color: #ECECEC;
+}
+
+.doctor{
+  width: 100%;
+  height: auto;
+  float: left;
+  position: relative;
+}
+
+
+.articlecontainer{
+  width: 78%;
+  height: 100%;
+  background-color: white;
+  position: ;
+  float: right;
+  margin-left: 22%;
+}
+
+.headingcontainer{
+  width: 80%;
+  height: 5%;
+  position: relative;
+  float: left;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+
+.title2{
+  font-family:"Helvetica";
+  font-weight: bold;
+  font-size: 3em;
+  margin-left: 2%;
+  margin-top: 1%;
+  text-align: left;
+  color: black;
+}
+
+
+.authorcontainer{
+  width: 80%;
+  height: 5%;
+  position: relative;
+  float: left;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.title3{
+  font-family:"helvetica";
+  font-size: .7em;
+  font-weight: lighter;
+  margin-left: .30%;
+  margin-top: 1%;
+  text-align: left;
+  color: black;
+}
+
+.maintextcontainer{
+  width: 90%;
+  height: 2000px;
+  position: relative;
+  float: left;
+  margin-left: 2%;
+  margin-top: 2%;
+  text-align: left;
+
+}
